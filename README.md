@@ -1,5 +1,5 @@
 # :rocket: **Steps to create code based(LaTex) resume in 5 minutes.**
-1. Log in to [Overleaf’s Jake’s Resume template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) and  [Overleaf’s Name's PHD Resume template](https://www.overleaf.com/latex/templates/scismics-recommended-cv-template-for-biotech-and-pharma-jobs/hbnkjrjnnpjz)
+1. Log in to [Overleaf’s Jake’s Resume template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) & [Overleaf’s Name's PHD Resume template](https://www.overleaf.com/latex/templates/scismics-recommended-cv-template-for-biotech-and-pharma-jobs/hbnkjrjnnpjz)
 .
 2. Delete all the existing content from the template.
 
